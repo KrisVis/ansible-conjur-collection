@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [1.4.0] - 2026-15-01
+
+### Added
+- JWT token authentication for lookup plugin
+
 ## [1.3.9] - 2025-11-10
 
 ### Security
